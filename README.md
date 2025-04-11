@@ -16,8 +16,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Un
 2. Open the project in Unity.
 3. Play the game in the Unity editor or build it for your target platform.
 
-### Blog Tutorial
-For a detailed step-by-step explanation of the project structure and implementation, please refer to this [BLOG POST](https://dev.to/marufhow/create-a-tic-tac-toe-game-in-unity-2lnb). It will help you better understand the code and architecture used in the project.
+
 
 ### Screenshot
 ![Tic Tac Toe Game](/screenshot/tictactoe.gif)
